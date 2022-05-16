@@ -13,3 +13,6 @@ cd Cctvhacker
 python cctv.py
 
 cctv camera hacking
+When you start hacking Wait For Ip address
+When Ip Addresses pop up copy Ip Address
+Paste it in Browser 
